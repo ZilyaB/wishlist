@@ -3,20 +3,20 @@
   "wishes":
   [
     {
-      "title": "Машинка для чистки катышков",
-      "description": "Машинка для чистки катышков Xiaomi",
-      "price": "950",
-      "link": "https://www.dns-shop.ru/product/3e40e94a92aad21a/masinka-dla-udalenia-katyskov-xiaomi-lint-remover-2/",
+      "title": "Серьги серебрянные",
+      "description": "Серьги серебрянные на которые можно повесить что-нибудь",
+      "price": "3000",
+      "link": "https://sunlight.net/catalog/earring_272630.html?utm_source=application&utm_medium=sharing",
       "priority": "high",
-      "image": "https://robot4home.ru/image/cache/catalog/mijia-rechargeable-lint-remover-mqxjq01kl/199565667-720x720.jpg"
+      "image": "blob:https://web.telegram.org/473e2b57-1c83-4984-b4f7-35a08993a395"
     },
     {
-    "title": "Весы напольные",
-    "description": "Весы напольные kitfort",
-    "price": "1400",
-    "link": "https://www.dns-shop.ru/product/9369c8dd14c23333/vesy-kitfort-kt-805-cernyj/",
+    "title": "Серьги гвоздики",
+    "description": "Маленькин сережки",
+    "price": "1000",
+    "link": "https://sunlight.net/catalog/earring_281207.html?utm_source=application&utm_medium=sharing",
     "priority": "high",
-    "image": "https://cdn.citilink.ru/SAqi_FYwidzzZBbSLIK6HoOX5tbF-442GDg6Zpy496M/resizing_type:fit/gravity:sm/width:400/height:400/plain/product-images/1730bab5-a18c-4a41-a462-067967be04e5.jpg"
+    "image": "blob:https://web.telegram.org/7c5e8a7b-f309-4cc4-aed3-a128d8e90068"
     }
   ]
 }

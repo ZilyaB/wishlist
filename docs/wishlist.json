@@ -8,7 +8,7 @@
       "price": "3000",
       "link": "https://sunlight.net/catalog/earring_272630.html?utm_source=application&utm_medium=sharing",
       "priority": "high",
-      "image": "blob:https://web.telegram.org/473e2b57-1c83-4984-b4f7-35a08993a395"
+      "image": "https://web.telegram.org/473e2b57-1c83-4984-b4f7-35a08993a395"
     },
     {
     "title": "Серьги гвоздики",
@@ -16,7 +16,7 @@
     "price": "1000",
     "link": "https://sunlight.net/catalog/earring_281207.html?utm_source=application&utm_medium=sharing",
     "priority": "high",
-    "image": "blob:https://web.telegram.org/7c5e8a7b-f309-4cc4-aed3-a128d8e90068"
+    "image": "https://web.telegram.org/7c5e8a7b-f309-4cc4-aed3-a128d8e90068"
     }
   ]
 }

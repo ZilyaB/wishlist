@@ -8,7 +8,7 @@
       "price": "3000",
       "link": "https://sunlight.net/catalog/earring_272630.html?utm_source=application&utm_medium=sharing",
       "priority": "high",
-      "image": "https://web.telegram.org/473e2b57-1c83-4984-b4f7-35a08993a395"
+      "image": "https://g0.sunlight.net/media/products/b7762e10fd69f5fcc2ed253504044d126114a4a0.jpg"
     },
     {
     "title": "Серьги гвоздики",
@@ -16,7 +16,23 @@
     "price": "1000",
     "link": "https://sunlight.net/catalog/earring_281207.html?utm_source=application&utm_medium=sharing",
     "priority": "high",
-    "image": "https://web.telegram.org/7c5e8a7b-f309-4cc4-aed3-a128d8e90068"
+    "image": "https://g8.sunlight.net/r/w800/q85/media/products/57ee469c-fe99-11ec-838a-005056b30bd2.jpg"
+    },
+    {
+    "title": "Подвески на сережки",
+    "description": "Подвески на сережки",
+    "price": "100",
+    "link": "https://aliexpress.ru/item/1005007610137201.html?utm_referrer=https%3A%2F%2Fweb.telegram.org%2F&sku_id=12000044492529617&srcSns=sns_More&businessType=ProductDetail&spreadType=socialShare&tt=MG&utm_medium=sharing",
+    "priority": "high",
+    "image": "https://img.joomcdn.net/9a97f32864bc9a9939924db3918e1d293d19379d_original.jpeg"
+    },
+    {
+    "title": "Стилус",
+    "description": "Стилус Huawei m pencil 3 CD54-S белый",
+    "price": "6000",
+    "link": "https://www.avito.ru/sankt-peterburg/planshety_i_elektronnye_knigi/stilus_huawei_m_pencil_3_cd54-s_belyy_3624872063?context=H4sIAAAAAAAA_wE_AMD_YToyOntzOjEzOiJsb2NhbFByaW9yaXR5IjtiOjA7czoxOiJ4IjtzOjE2OiI2aTdoM1RNRU9Md0owSHQzIjt9r3MeSD8AAAA",
+    "priority": "high",
+    "image": "https://avatars.mds.yandex.net/get-mpic/4334746/2a00000191c7c8a4b06cd7d31bc57dbf88f1/optimize"
     }
   ]
 }
